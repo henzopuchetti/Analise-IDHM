@@ -84,7 +84,7 @@ jupyter notebook
 
 Henzo Puchetti\
 LinkedIn: https://www.linkedin.com/in/henzoboschiero/ \
-GitHub: https://github.com/henzopuchetti \
+GitHub: https://github.com/henzopuchetti 
 
 ------------------------------------------------------------------------
 
