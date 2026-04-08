@@ -41,9 +41,9 @@ O projeto segue uma linha estruturada de análise:
 
 ## 🗂️ Estrutura do Projeto
 
-📁 Analise-IDHM
-├── Analise_IDHM.ipynb
-├── IDH_2010.xls
+📁 Analise-IDHM /
+├── Analise_IDHM.ipynb /
+├── IDH_2010.xls /
 └── README.md
 
 ------------------------------------------------------------------------
