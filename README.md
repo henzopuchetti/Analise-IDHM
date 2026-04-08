@@ -14,13 +14,13 @@ desenvolvimento humano nos municípios brasileiros.
 
 ## 🎯 Objetivos
 
--   Compreender a distribuição do IDHM no Brasil\
--   Analisar desigualdades regionais e estaduais\
+-   Compreender a distribuição do IDHM no Brasil
+-   Analisar desigualdades regionais e estaduais
 -   Investigar as dimensões que compõem o IDHM:
     -   Educação
     -   Renda
-    -   Longevidade\
--   Identificar municípios que fogem do padrão\
+    -   Longevidade
+-   Identificar municípios que fogem do padrão
 -   Construir uma narrativa baseada em dados e visualizações
 
 ------------------------------------------------------------------------
@@ -29,42 +29,42 @@ desenvolvimento humano nos municípios brasileiros.
 
 O projeto segue uma linha estruturada de análise:
 
-1.  Carregamento e entendimento dos dados\
-2.  Tratamento e validação da base\
-3.  Análise exploratória (EDA)\
-4.  Visualizações estatísticas\
-5.  Análise de correlações\
-6.  Identificação de padrões e outliers\
+1.  Carregamento e entendimento dos dados
+2.  Tratamento e validação da base
+3.  Análise exploratória (EDA)
+4.  Visualizações estatísticas
+5.  Análise de correlações
+6.  Identificação de padrões e outliers
 7.  Geração de insights
 
 ------------------------------------------------------------------------
 
 ## 🗂️ Estrutura do Projeto
 
-📁 Analise-IDHM/\
-├── Analise_IDHM.ipynb\
-├── IDH_2010.xls\
+📁 Analise-IDHM
+├── Analise_IDHM.ipynb
+├── IDH_2010.xls
 └── README.md
 
 ------------------------------------------------------------------------
 
 ## 🧪 Tecnologias Utilizadas
 
--   Python\
--   Pandas\
--   NumPy\
--   Matplotlib\
--   Seaborn\
+-   Python
+-   Pandas
+-   NumPy
+-   Matplotlib
+-   Seaborn
 -   Jupyter Notebook / Google Colab
 
 ------------------------------------------------------------------------
 
 ## 📊 Principais Análises
 
--   Distribuição do IDHM\
--   Desigualdades regionais\
--   Componentes do IDHM\
--   Correlações entre variáveis\
+-   Distribuição do IDHM
+-   Desigualdades regionais
+-   Componentes do IDHM
+-   Correlações entre variáveis
 -   Identificação de outliers
 
 ------------------------------------------------------------------------
@@ -82,8 +82,8 @@ jupyter notebook
 
 ## 👨‍💻 Autor
 
-Henzo Puchetti\
-LinkedIn: https://www.linkedin.com/in/henzoboschiero/\
+Henzo Puchetti
+LinkedIn: https://www.linkedin.com/in/henzoboschiero/
 GitHub: https://github.com/henzopuchetti
 
 ------------------------------------------------------------------------
